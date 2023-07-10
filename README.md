@@ -1,6 +1,6 @@
 # <h1> dio-trilha-java-basico</h1>
 # DIO - Trilha Java Básico
-# <a href="https://www.dio.me/"></a>
+# <a href="https://www.dio.me/">🔗 React</a>
 #<p>
 # Sintaxe - Desafio
 # Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
