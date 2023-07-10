@@ -1,14 +1,14 @@
-# <h1> dio-trilha-java-basico</h1>
+
 # DIO - Trilha Java Básico
-# <a href="https://www.dio.me/">🔗 React</a>
-#<p>
-# Sintaxe - Desafio
-# Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
-#</p>
+### <a href="https://www.dio.me/">🔗 site Dio</a>
 <p>
-# Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:</br>
-# Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.</br>
-# Revise sobre regras de declaração de variáveis</br>
+### Sintaxe - Desafio
+###Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
+</p>
+<p>
+### Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:</br>
+### Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.</br>
+### Revise sobre regras de declaração de variáveis</br>
   </p>
 # Atributo	Tipo	Exemplo
 # Numero	Inteiro	1021
